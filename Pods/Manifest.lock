@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (2.0.2)
+  - pop (1.0.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - pop
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+
+COCOAPODS: 0.39.0
